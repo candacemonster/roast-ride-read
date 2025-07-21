@@ -36,7 +36,7 @@ webmaster_verifications:
   facebook:
 
 analytics:
-  google:
+  google: 
     id:
   goatcounter:
     id: desertdriftholdings
@@ -54,7 +54,7 @@ analytics:
 pageviews:
   provider: goatcounter
 
-theme_mode: dark
+theme_mode: 
 
 cdn:
 
