@@ -14,3 +14,16 @@
 *.png binary
 *.jpg binary
 *.ico binary
+
+# Language detection overrides for GitHub
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.scss linguist-detectable=true
+*.js linguist-detectable=true
+*.md linguist-documentation=false
+
+# Don't count build tools and vendor files
+tools/* linguist-vendored=true
+.devcontainer/* linguist-vendored=true
+vendor/* linguist-vendored=true
+_site/* linguist-generated=true
