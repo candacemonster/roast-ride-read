@@ -36,25 +36,13 @@ webmaster_verifications:
   facebook:
 
 analytics:
-  google: 
-    id:
   goatcounter:
     id: desertdriftholdings
-  umami:
-    id:
-    domain:
-  matomo:
-    id:
-    domain:
-  cloudflare:
-    id:
-  fathom:
-    id:
 
 pageviews:
   provider: goatcounter
 
-theme_mode: 
+theme_mode:
 
 cdn:
 
@@ -96,8 +84,6 @@ pwa:
 
 paginate: 10
 
-baseurl: ""
-
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
@@ -120,7 +106,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
+      comments: false
       toc: true
       permalink: /posts/:title/
   - scope:
