@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+Impact-Site-Verification: 47ab9830-8178-45e9-9abf-bb36adb9d6af
 
 **roast. ride. read.** is a field guide.  
 written for me — but you’re welcome to eavesdrop.
