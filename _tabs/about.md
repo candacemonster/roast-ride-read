@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**roast. ride. read.** is a field guide.  
+**roast. ride. read.** is a personal field guide.  
 written for me — but you’re welcome to eavesdrop.
 
 it’s how i keep track of what felt worth recording:  
