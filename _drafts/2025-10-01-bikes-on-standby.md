@@ -6,7 +6,7 @@ categories: [gear-notes, trail-life]
 tags: [bikes, felt fatty, salsa timberjack, dogs, gravel, not-an-expert, winter-migration]
 pin: false
 excerpt: >-
-field notes on two loyal bikes, a questionable seat, and plans for more trail miles.
+  field notes on two loyal bikes, a questionable seat, and plans for more trail miles.
 ---
 
 **location**: somewhere between winter plans and past excuses
