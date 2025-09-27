@@ -3,13 +3,14 @@ title: autumn equinox, monitor tan
 date: 2025-09-27 09:13:00 -0600
 categories: [field-notes, reflection]
 tags: [autumn, regrets, dogs, trail-life, bonfire, equinox]
-pin: true
+pin: false
 excerpt: >-
   field note from the season that wandered off, and left me by the glow of my screen.
 ---
 
-**location**: inside, mostly. actual trail: rare. 
-**conditions**: dusk sneaking in earlier. grass gold, bikes colder. 
+**location**: inside, mostly. actual trail: rare.  
+**conditions**: dusk sneaking in earlier. grass gold, bikes colder.
+
 ![embers and empty trails](/assets/img/embers-empty-trails.webp)
 
 ---
@@ -35,6 +36,8 @@ not proud. not dramatic. just wishing i’d chosen laces over logins, sweat over
 i’m not getting younger. these dogs, these mountains—deserve more than cameo appearances.
 but at least we made it up to mackay, chasing sparks and dusk.
 could’ve been weekly. was barely a season.
+
+---
 
 here’s to autumn:
 maybe more memory, less inbox.

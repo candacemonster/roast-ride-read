@@ -10,6 +10,7 @@ excerpt: >-
 
 **location**: high desert trail, crusty with heat  
 **conditions**: dry. rocky. too hot for bare paws by 10am.  
+
 ![Tove—new boot goofing](/assets/img/tove-new-boot-goofing.webp)
 
 ---
