@@ -3,7 +3,7 @@ title: the water’s right there
 date: 2025-07-20 08:00:00 -0600
 categories: [field-notes]
 tags: [paddleboarding, rv-life, onx, solo, resistance]
-pin: true
+pin: false
 excerpt: >-
   the board’s ready. i’m not. a short note from the shore.
 ---

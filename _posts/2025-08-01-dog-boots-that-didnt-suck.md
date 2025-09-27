@@ -1,15 +1,16 @@
 ---
 title: dog boots that didn’t suck
-date: 2025-07-21 08:00:00 -0600
+date: 2025-08-01 08:00:00 -0600
 categories: [gear-notes]
 tags: [dogs, dogmocs, gear-review, trail-life, testing]
+pin: false
 excerpt: >-
   a short field note on the only dog boots we’ve ever kept using.
-image: /assets/img/tove-new-boot-goofing.webp
 ---
 
 **location**: high desert trail, crusty with heat  
 **conditions**: dry. rocky. too hot for bare paws by 10am.  
+![Tove—new boot goofing](/assets/img/tove-new-boot-goofing.webp)
 
 ---
 
