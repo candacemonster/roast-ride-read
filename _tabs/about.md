@@ -7,34 +7,36 @@ order: 2
 # roast. ride. read.
 
 a personal field guide.  
-written for me — but you’re welcome to eavesdrop.
+written for me — you’re welcome to lurk.
 
-it’s how i keep track of what felt worth recording:  
-a cup of coffee worth repeating.  
-a trail i’d return to.  
-a book that made the world tilt, even slightly.
+this is where i log whatever felt worth remembering:  
+a cup of coffee i’d knowingly risk heartburn for,  
+a trail that didn’t require therapy after,  
+a book that managed to rattle my existential snowglobe.
 
-no tips. no hacks. no polished takeaways.  
-just a log — of movement, stillness, and the quiet parts in between.
+no tips, no hacks, definitely no “life-changing journeys.”  
+just movement, stillness, and the quiet snark in between.
 
 authored by candace —  
-quiet on purpose, overpacked with books, and forever loyal to dogs and coffee.
-
----
+quiet on purpose. loyal to dogs and coffee.
 
 ---
 
 ## currently
 
 **reading**  
-whatever book isn’t already dog-eared beyond repair.  
-current title: _[insert title here]_ (spoilers: probably not life-changing).
+undecided—open to suggestions, unless it’s “life-changing.” mostly journaling; shuffling through morning and evening walks (rain + cold = character building).  
+current title: 
+
+**sipping**  
+recently picked up some Pink Elephant coffee out of Park City, Utah. would recommend, but let’s not pretend it’s a spiritual awakening.
 
 **listening**  
-playlists that guarantee suitable background for navel-gazing.  
-go ahead, judge my taste:  
-[digital mixtapes](https://music.apple.com/profile/roastrideread)
+existential background noise and the occasional playlist for advanced navel-gazing.  
+public taste, private judgments:  
+<a href="https://music.apple.com/profile/roastrideread" target="_blank">digital mixtapes</a>
 
 **creating**  
-writing, journaling, and sporadic attempts at something resembling art.  
-expectations remain low, results variable.
+writing, journaling, and the occasional creative experiment.  
+expectations are realistic; outcomes surprise even me.   
+<a href="https://www.icloud.com/sharedalbum/#B20GgZLKuGlFAQR" target="_blank">creatives (because “art” feels too formal) </a>

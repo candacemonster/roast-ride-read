@@ -6,61 +6,91 @@ icon: fas fa-toolbox
 
 # gearhead: not sponsored, not sorry
 
-abandon all hope, ye gearheads. this isn’t buzzfeed. just the stuff i keep around, courtesy of capitalism and inertia. feel free to copy, adapt, or ignore—cynicism included.
+stuff i keep around. copy, adapt, ignore—cynicism included.
 
 ## roast: coffee & espresso gear
 
 [profitec pro 300 espresso machine](https://www.profitec-espresso.com/en/products/pro300)  
-when you need industrial-level drama before 7am. dual boiler, pid, and more steel than your local hardware store. heats up in five minutes, which is faster than i get up most days. makes great shots—if you don’t mess up.
-
+industrial drama (mostly my husband’s). he makes the coffee.  
 [ceado e5p grinder](https://coffee.ceado.com/en/products/26-on-demand/16-e5p)  
-if you want coffee grounds so uniform they look staged for instagram, this is the one. ridiculously consistent, surprisingly quiet. also doubles as a daily reminder of your questionable financial choices.
- 
-- scale. pour-over that survived three moves. quality = survived.
-- mug that actually fits my cup holder. rare. nearly mythical.
+uniform grinds, quiet, shames my wallet.
 
-## ride: bike, paddle board, and hiking gear
-### bike
+- scale. survived three moves.
+- mug that fits cup holder.
 
-[some little miracle from amazon 🤏](https://amzn.to/4mI3HYu)  
-cycplus tire inflator, or as i call it: my panic-eraser. i’ve got an older version, but it continues to puff up bike tires, car tires, basketballs, and optimism with equal efficiency. lcd display is weirdly accurate. yes, i’ve used it to inflate things besides bikes. no, i don’t regret it. shows up reliably even when my energy is flat.
+## ride: bikes, paddle board, hiking
 
-- helmet: still in one piece, unlike my self-esteem.
-- lights: visible from space. or at least, cars in idaho.
-- tool kit: i only use two of the tools, but the bag looks professional.
+### bikes
+
+- felt dd70 (fat bike)
+- salsa timberjack (mtb)
+- felt road bike (miss this one)
+- maybe next: [felt vr race endurance road](https://www.feltbicycles.com/en-us/bikes/road-bikes/vr-endurance-road/vr-race-105.color.00353dE9EFEF.html)
+- [cycplus tire inflator](https://amzn.to/4mI3HYu): tires, sports balls, optimism 🤏
+- helmet (intact), lights (bright), tool kit (mostly for show)
 
 ### paddle board
-- board: the least inflatable paddleboard that still fits in my trunk.
-- leash: for people who fear drifting into mediocrity.
-- life vest: only mildly humiliating.
-- waterproof bag: surprisingly not a lie.
+
+- board: trunk-sized, barely inflatable
+- leash: for existential drift
+- life vest: mildly humiliating
+- waterproof bag
 
 ### hiking
-- boots: dry feet = luxury.
-- poles: for pretending i know what i’m doing.
-- hydration pack: keeps coffee cold. disappointment too.
 
-## read: book & reading gear
-- kindle: battery lasts longer than my enthusiasm.
-- bookmarks: because quitting books mid-sentence is a lifestyle.
-- lamp: for reading while ignoring literally everything else.
-- journal: mostly collects sarcasm. occasionally, thoughts.
+- boots: dry feet
+- poles: fake expertise
+- hydration pack: cold coffee, cold disappointment
+
+## dog: emergency & daily
+
+- tick remover: everywhere
+- mini first-aid: bandages, ointment, tweezers
+- vet info: laminated
+- water bowl: for picky dogs
+- leash + poop bags: always more
+- treats: for bribery
+- cooling bandana: drama/utility
+- spare boot: one always lost
+- benadryl: consult vet
+- contacts: collar, tag, phone, van
+
+## wallet & micro
+
+[Chums Surfshorts Wallet](https://chums.com/collections/wallets/products/surfshorts-wallet?variant=42946164523205)
+
+- tick remover
+- sewing needle
+- lip balm
+- small pen
+- crumpled $20
+- micro multitool
+- safety pin
+
+## eyewear
+
+[Chums Slip Fit Retainer](https://chums.com/collections/best-selling-eyewear-retainers/products/slip-fit)  
+keeps sunglasses alive.
+
+## read
+
+- apple ipad mini (vs kindle)
+- apple books
+- kindle app
+- libby
+- bookmarks
+- usb lamp
+- journal
 
 ---
 
-## online gear lists (haves, needs, wants, delusions)
-[full amazon gear list](https://www.amazon.com/hz/wishlist/ls/DHOXLOZ0FH00?ref_=wl_share)
+## online lists
+
+[amazon wishlist](https://www.amazon.com/hz/wishlist/ls/DHOXLOZ0FH00?ref_=wl_share)
 
 ---
 
-#### affiliate-adjacent disclosure (for this page. obviously.)
+#### affiliate-adjacent  
+🤏  might buy me a coffee. everything else: real use, no promos.
 
-if you notice a tiny 🤏, congratulations—you’ve found the only thing here that might buy me a coffee. as in, one. cream not included. the rest? just things i actually use, or at least tolerate, and nobody paid me to say otherwise.
-
-- no icon = just a genuine, unremarkable recommendation. no proceeds, no grand ambitions. 
-- 🤏 = affiliate link. i might earn something so negligible you’ll need a microscope and therapy to notice.
-- nothing here is flawless. if it was, i wouldn’t still be looking for better.
-
-this dazzling display of affiliate transparency applies only to the gear on this page. it will not follow you around the internet. if you do something wild, like click, thank you. you’ve funded my next mediocre americano.
-
-coffee sipped, gear graded, standards set embarrassingly low. as it should be.
+coffee sipped, standards: low.
